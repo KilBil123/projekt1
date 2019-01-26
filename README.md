@@ -1,3 +1,3 @@
 # projekt1
-hello world
+world
 hello my friend
