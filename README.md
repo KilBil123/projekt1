@@ -1,5 +1,3 @@
 # projekt1
-hello
+world
 hello my friend
-proba5
-pppppo
